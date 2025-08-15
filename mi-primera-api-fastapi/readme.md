@@ -44,4 +44,4 @@ uvicorn main:app --reload --port 8000
 - Si Git no funciona: verificar \`git config user.name\` y \`git config user.email\`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
 
-EOF
+Reflexion gracias por tan comprensible clase espero y sean mejores cada dia
